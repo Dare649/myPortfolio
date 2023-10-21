@@ -16,6 +16,9 @@ const Navbar = () => {
       {
         open ? 
         (
+          ""
+        ):
+        (
           <nav id="#" className="bg-purple-700 lg:h-20 w-[100%] ">
             <div className="flex lg:flex-row lg:item-center justify-between">
               <div className="lg:w-14 lg:h-5 lg:p-1 sm:w-48 sm:h-full sm:p-5">
@@ -36,9 +39,6 @@ const Navbar = () => {
               </div>
             </div>
           </nav>
-        ):
-        (
-          ""
         )
       }    
     </>

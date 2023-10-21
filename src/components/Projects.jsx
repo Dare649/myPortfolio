@@ -28,7 +28,7 @@ const Projects = () => {
         <div className="w-full h-60 mt-80 pb-10">
           <h1 className="capitalize text-xl font-semibold text-center py-20">Firazi</h1>
           <img src={firazi} alt="" 
-            className="lg:px-40 sm:px-0 lg:mx-36 sm:mx-auto"
+            className="lg:px-40 sm:px-0 mx-auto"
           />
           <p className="py-20 text-md">Supported in the building of <strong>Firazi </strong> an application that connects travellers and users who wants to send their packages to other states or country <br />
           </p>

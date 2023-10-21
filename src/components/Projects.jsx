@@ -12,8 +12,8 @@ const Projects = () => {
           <img src={dialali} alt="" 
             className="lg:px-40 sm:px-0"
           />
-          <p className="py-20 text-md">This is the Admin side of the applications that allows users manage reports and activities on the applicatio. I was solely tasked to start the development of the frontend of the application <br />
-          hasn't gone live.
+          <p className="py-20 text-md">This is the Admin side of the applications that allows users manage reports and activities on the application. I was solely tasked to start the development of the frontend of the application <br />
+          <strong>hasn't gone live.</strong>
           </p>
         </div>
         <div className="w-full h-60 mb-48 py-10">

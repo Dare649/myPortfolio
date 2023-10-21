@@ -13,7 +13,7 @@ const About = () => {
         <div className="">
             <h1 className="text-3xl font-bold py-5 capitalize">career objective</h1>
             <p className="text-md py-3 ">
-                As a Junior Frontend Developer, my objective is to leverage my passion for coding and design to
+                As a Frontend Developer, my objective is to leverage my passion for coding and design to
                 contribute to dynamic web development projects. I aim to utilize my strong understanding of HTML,
                 CSS, and JavaScript to create visually appealing and user-friendly websites, while continuously
                 expanding my skills and knowledge in frontend technologies. With a collaborative mindset and a
@@ -54,7 +54,7 @@ const About = () => {
                     junior frontend developer 
                 </h2>
                 <h2 className="text-md font-semibold py-2 capitalize flex flex-row">
-                    <p>oct 2023 - till date</p> 
+                    <p>may 2023 - till date</p> 
                     <p className="ml-10">full-time (remote)</p> 
                 </h2>
                 <ul className='text-md list-decimal'>
